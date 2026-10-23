@@ -1,18 +1,10 @@
 # Hi there, I'm Ivin Sunny 👋
 
-### Software Developer | AI/ML Enthusiast | Full-Stack Developer
+<p align="center">
+  <img src="https://github.com/Ivinzz10.png" width="150" height="150" alt="Ivin Sunny's GitHub profile photo" style="border-radius:50%;" />
+</p>
 
-I'm a Computer Science and Engineering graduate passionate about building practical software solutions using **Python, AI/ML, and web technologies**. I enjoy turning ideas into working applications, exploring emerging AI technologies, and solving real-world problems through code.
-
-- 🔭 Exploring **AI agents, Generative AI, machine learning, and software development**
-- 🛠️ Building applications across **backend development, computer vision, IoT, and AI-powered systems**
-- 🏆 GATE 2026 qualified | SAP Hackfest 2025 — State-Hub Round
-- 🌱 Always learning, experimenting, and building
-- 📫 Reach me at **[Email](mailto:ivinsunny10@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/ivinsunny)**
-
----
-
-### 🤝 Connect with Me
+<h3 align="center">Software Developer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivinsunny">
@@ -21,10 +13,19 @@ I'm a Computer Science and Engineering graduate passionate about building practi
   <a href="mailto:ivinsunny10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ivinzz10">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
+
+---
+
+### 🚀 About Me
+
+I'm a Computer Science and Engineering graduate passionate about building practical software solutions using Python, AI/ML, and web technologies.
+
+- 🔭 Exploring AI agents, Generative AI, machine learning, and software development
+- 🛠️ Building applications across backend development, computer vision, IoT, and AI-powered systems
+- 🏆 GATE 2026 qualified | SAP Hackfest 2025 — State-Hub Round
+- 🌱 Always learning, experimenting, and building
+- 📫 Reach me at **ivinsunny10@gmail.com**
 
 ---
 
@@ -80,54 +81,48 @@ I'm a Computer Science and Engineering graduate passionate about building practi
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌱 <a href="https://github.com/Ivinzz10/Sustain_AI">SustainAI</a></h3>
-      <p>An AI-powered waste disposal management system built around a master agent coordinating specialized AI agents.</p>
-      <p><strong>Highlights:</strong> Waste image classification, environmental intelligence, automated research, and interactive dashboards.</p>
-      <p><strong>Tech:</strong> Python, Flask, Ollama, YOLO, SQLite, JavaScript</p>
-    </td>
-    <td width="50%">
-      <h3>⚡ <a href="https://github.com/Ivinzz10/Smart_Energy_Management_System">Smart Home Energy Optimization</a></h3>
-      <p>An IoT-based system for monitoring household electricity consumption and forecasting energy usage.</p>
-      <p><strong>Highlights:</strong> ESP32-based monitoring, Firebase data visualization, and LSTM time-series forecasting.</p>
-      <p><strong>Tech:</strong> Python, TensorFlow, Firebase, ESP32, Pandas</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🖐️ <a href="https://github.com/Ivinzz10/Virtual_Mouse">Virtual Mouse Using Hand Gestures</a></h3>
-      <p>A computer vision application that enables touch-free mouse control using real-time hand tracking and gestures.</p>
-      <p><strong>Highlights:</strong> Cursor movement, clicking, scrolling, and screenshot operations.</p>
-      <p><strong>Tech:</strong> Python, OpenCV, MediaPipe, PyAutoGUI</p>
-    </td>
-    <td width="50%">
-      <h3>✍️ <a href="https://github.com/Ivinzz10/Blog_Post_Project">Blog Post Project</a></h3>
-      <p>A Python-based blogging project focused on implementing core application functionality.</p>
-      <p><strong>Tech:</strong> Python</p>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| 🌱 [**SustainAI**](https://github.com/Ivinzz10/Sustain_AI) | Multi-agent AI-powered waste management system featuring waste image classification, environmental intelligence, automated research, and interactive dashboards. |
+| ⚡ [**Smart Home Energy Optimization**](https://github.com/Ivinzz10/Smart_Energy_Management_System) | IoT-based energy monitoring system using ESP32, Firebase, and LSTM time-series forecasting. |
+| 🖐️ [**Virtual Mouse Using Hand Gestures**](https://github.com/Ivinzz10/Virtual_Mouse) | Computer vision application for cursor movement, clicking, scrolling, and screenshots using hand gestures. |
+| ✍️ [**Blog Post Project**](https://github.com/Ivinzz10/Blog_Post_Project) | Python-based blogging project. |
+| ✅ [**To-Do List**](https://github.com/Ivinzz10/To_do_list) | Task management application built with Python. |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ivinzz10&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivinzz10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ivinzz10&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivinzz10&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
 
 ---
 
 ### 🏆 Achievements
 
-- **GATE 2026:** Qualified in Computer Science and Information Technology.
-- **SAP Hackfest 2025:** Advanced to the State-Hub Round after qualifying through the regional round.
+- Qualified **GATE 2026** in Computer Science and Information Technology.
+- **SAP Hackfest 2025:** Advanced to the State-Hub Round.
 - **FlowZint AI Hackathon 2026:** Developed SustainAI, an AI-powered waste management solution.
 - **Shaastra Techathon 2024:** Participated in the national-level technology event at IIT Madras.
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ivinzz10&show_icons=true&theme=tokyonight&hide_border=true" alt="Ivin's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivinzz10&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <i>Building, learning, and exploring what's possible with code. Thanks for visiting! 🚀</i>
 </p>
 
 <p align="center">

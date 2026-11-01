@@ -34,10 +34,18 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2026) who enjoys turnin
 
 ### 💼 Experience
 
+**Junior Software Engineer (Part-Time)**, 797th LLC *(Oct 2026 – Present)*
+- Contributing to AI-powered content generation systems focused on blog creation, SEO, and AEO
+- Developing and improving AI agent workflows using Rust, LLM integrations, and CLI-based development tools
+- Working on content quality pipelines involving research, article generation, critique, revision, and validation
+- Improving system reliability, prompt engineering, and automated testing across AI-driven workflows
+
 **Full Stack Intern**, Techcake Cloud Innovations LLP *(Dec 2025)*
 - Contributed to full-stack web application development across frontend, backend, and application features
 - Applied SDLC practices including development, testing, debugging, and maintenance
 - Collaborated on development tasks, strengthening problem-solving and code quality
+
+---
 
 ### 🎓 Education
 
@@ -128,20 +136,10 @@ CGPA: **8.58 / 10**
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ivinzz10&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivinzz10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Most-used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ivinzz10&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivinzz10&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ivinzz10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ivinzz10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ivinzz10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 

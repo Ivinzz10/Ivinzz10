@@ -137,27 +137,31 @@ CGPA: **8.58 / 10**
 ---
 
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Ivinzz10&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Ivinzz10&theme=dark&show_icons=true&include_all_commits=true&show=contributions,prs_merged,reviews&hide_border=true"
+    height="200"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ivinzz10&theme=dark&layout=compact&hide_border=true&langs_count=8"
-    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ivinzz10&theme=dark&layout=compact&langs_count=8&hide_border=true"
+    height="200"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ivinzz10&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Ivinzz10&theme=dark&hide_border=true&timezone=Asia%2FKolkata"
     alt="GitHub Streak"
   />
 </p>
+
+
+
 
 
 ---

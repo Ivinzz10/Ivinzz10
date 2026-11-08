@@ -22,12 +22,17 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science and Engineering graduate (B.Tech, 2026) who enjoys turning ideas into working software. I build AI-powered, full-stack, and data-driven applications, with hands-on experience in backend development, API integration, databases, machine learning, computer vision, and IoT.
+I'm a Computer Science and Engineering graduate (B.Tech, 2026) and Junior Software Engineer passionate about building scalable software, AI-powered applications, and intelligent systems.
 
-- 🔭 Currently exploring **AI agents, Generative AI, LLMs**, and end-to-end software development
-- 🛠️ Building across backend systems, computer vision, IoT, and AI-powered applications
-- 🏆 **GATE 2026** qualified | **SAP Hackfest 2025**: State-Hub Round
-- 💼 Open to opportunities as a **Software Engineer, AI/ML Engineer, or Full-Stack Developer**
+Currently, I'm working part-time at **797th LLC**, contributing to the development of an AI-powered content generation platform involving **Rust, LLM integrations, AI-driven workflows, SEO, and AEO**.
+
+My experience spans backend development, full-stack applications, multi-agent AI systems, machine learning, computer vision, and IoT.
+
+- 🔭 Currently working on **AI-powered content generation, SEO/AEO, and backend engineering**
+- 🧠 Interested in **Agentic AI, Generative AI, LLMs, and Software Engineering**
+- 🛠️ Working with **Python, Rust, React, PostgreSQL, REST APIs, and AI/ML technologies**
+- 🏆 **GATE 2026 Qualified** | **SAP Hackfest 2025 State-Hub Round**
+- 💼 Open to opportunities in **Software Engineering, Python Backend Development, AI/ML, and Full-Stack Development**
 - 📫 Reach me at **ivinsunny10@gmail.com**
 
 ---
@@ -50,7 +55,7 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2026) who enjoys turnin
 ### 🎓 Education
 
 **B.Tech in Computer Science and Engineering**, Vimal Jyothi Engineering College *(2022 – 2026)*
-CGPA: **8.58 / 10**
+CGPA: **8.59 / 10**
 
 ---
 

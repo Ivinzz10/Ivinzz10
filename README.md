@@ -151,11 +151,6 @@ CGPA: **8.59 / 10**
     height="200"
     alt="GitHub Stats"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ivinzz10&theme=dark&layout=compact&langs_count=8&hide_border=true"
-    height="200"
-    alt="Top Languages"
-  />
 </p>
 
 <p align="center">
